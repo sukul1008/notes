@@ -22,4 +22,4 @@
 - [AtKlass](https://app.atklass.com)
 - [Important Dates](https://www.georgebrown.ca/current-students/important-dates?term=27246&category=131)
   
-[link to DATA Management comp1238](comp1238)
+[link to DATA Management comp1238](comp1238.md)
